@@ -1,0 +1,11 @@
+\BOOKMARK [1][-]{section.1}{Description}{}% 1
+\BOOKMARK [1][-]{section.2}{Main Function}{}% 2
+\BOOKMARK [1][-]{section.3}{User Guide}{}% 3
+\BOOKMARK [2][-]{subsection.3.1}{Input the command}{section.3}% 4
+\BOOKMARK [2][-]{subsection.3.2}{Output redirection}{section.3}% 5
+\BOOKMARK [2][-]{subsection.3.3}{Command line pipe}{section.3}% 6
+\BOOKMARK [1][-]{section.4}{Structure of the Program}{}% 7
+\BOOKMARK [1][-]{section.5}{Conclusion and Future Plan}{}% 8
+\BOOKMARK [2][-]{subsection.5.1}{About the External Commands}{section.5}% 9
+\BOOKMARK [2][-]{subsection.5.2}{About the Redirection of the Input}{section.5}% 10
+\BOOKMARK [2][-]{subsection.5.3}{Future Plan}{section.5}% 11
